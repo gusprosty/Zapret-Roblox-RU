@@ -17,7 +17,7 @@
 # Туториал по скачке:
 -----------
 Что бы запустить обход и поиграть в игру Roblox нам надо:
-1. Скачать Zapret[🔗 **Zapret**](https://github.com/Flowseal/zapret-discord-youtube/releases/download/1.9.0b/zapret-discord-youtube-1.9.0b.zip)
+1. Скачать [🔗 **Zapret**](https://github.com/Flowseal/zapret-discord-youtube/releases/download/1.9.0b/zapret-discord-youtube-1.9.0b.zip)
 2. Извлечь файлы Zapret в любую папку на ПК.
 3. Запустить файл service.bat(В папке которая уже содержит все файлы Zapret)
 4. Написать в консоль: 1
