@@ -10,12 +10,7 @@
 -----------
 В папке lists есть файл list-general.txt в котором и находятся списки сайтов.
 -----------
-В конце этого списка для обхода надо добавить эти строчки:
-www.roblox.com
-roblox.com
-client-telemetry.roblox.com
-setup.roblox.com
-clientsettings.roblox.com
+В конце этого списка для обхода надо добавить эти [Сыллки](https://github.com/gusprosty/Zapret-Roblox-RU/blob/main/RobloxLinks)
 -----------
 После чего мы должны перезапустить/запустить наш обход! -- Незнаете как запустить Обход? Туториал ниже!
 И все! Игра начнет грузить! 
